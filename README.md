@@ -1,6 +1,6 @@
 # TALCA: A Journey of Words and Connection
 
-TALCA is an enthralling and engaging game that derives its name from the fusion of two remarkable concepts: TALKATIVE, an individual known for their eloquence and penchant for conversation, and TC, the cherished initials of my beloved child. This unique combination symbolizes the essence of the game - a delightful adventure where communication and bonding take center stage.
+[TALCA](https://espigah.github.io/talca/) is an enthralling and engaging game that derives its name from the fusion of two remarkable concepts: TALKATIVE, an individual known for their eloquence and penchant for conversation, and TC, the cherished initials of my beloved child. This unique combination symbolizes the essence of the game - a delightful adventure where communication and bonding take center stage.
 
 **Rules of the Game TALCA**
 
@@ -38,3 +38,6 @@ TALCA is an enthralling and engaging game that derives its name from the fusion 
 3. The player with the most accumulated points at the end of the game is declared the winner.
 
 *Please note that the rules are flexible, and players can adjust them as needed to fit the environment and the dynamics of the group, always keeping the focus on fun and the challenge of forming words using imagination and creativity.*
+
+
+#### [Print here](https://espigah.github.io/talca/)
